@@ -1,0 +1,5 @@
+/Users/admin/Documents/Университет/ПС/PS_42_Nikolay_Kaloyanov/Welcome/bin/Welcome.exe.config
+/Users/admin/Documents/Университет/ПС/PS_42_Nikolay_Kaloyanov/Welcome/bin/Welcome.exe
+/Users/admin/Documents/Университет/ПС/PS_42_Nikolay_Kaloyanov/Welcome/obj/Welcome.csproj.AssemblyReference.cache
+/Users/admin/Documents/Университет/ПС/PS_42_Nikolay_Kaloyanov/Welcome/obj/Welcome.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/Университет/ПС/PS_42_Nikolay_Kaloyanov/Welcome/obj//Welcome.exe

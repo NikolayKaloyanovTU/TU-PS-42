@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{2187AC77-48C7-4CE8-854F-FE915BD824F6}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="23" Column="1" />
+      <File FileName="Model/User.cs" />
+      <File FileName="View/UserView.cs" />
+      <File FileName="ViewModel/UserViewModel.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Welcome" expanded="True">
+            <Node name="Welcome" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="Others" expanded="True" />
+              <Node name="View" expanded="True" />
+              <Node name="ViewModel" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

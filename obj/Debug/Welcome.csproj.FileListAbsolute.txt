@@ -1,0 +1,6 @@
+D:/New folder/PS_42_Nikolay_Kaloyanov/Welcome/bin/Debug/Welcome.exe.config
+D:/New folder/PS_42_Nikolay_Kaloyanov/Welcome/obj/Debug/Welcome.csprojResolveAssemblyReference.cache
+D:/New folder/PS_42_Nikolay_Kaloyanov/Welcome/bin/Debug/Welcome.exe
+D:/New folder/PS_42_Nikolay_Kaloyanov/Welcome/bin/Debug/Welcome.pdb
+D:/New folder/PS_42_Nikolay_Kaloyanov/Welcome/obj/Debug/Welcome.exe
+D:/New folder/PS_42_Nikolay_Kaloyanov/Welcome/obj/Debug/Welcome.pdb
